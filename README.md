@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Hardik 👋
 
-<!--
-**hardikoffice/hardikoffice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-stack Web Developer  
+💻 I build web apps using JavaScript  
+🔧 Backend + API Development  
+🐍 Python | ⚙️ C  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tech Stack
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js (add if using)
+- Database: MongoDB / MySQL
+- Tools: Git, GitHub, VS Code
+
+---
+
+## 🔥 Projects
+- Task Manager App (Full-stack)
+- REST API Project
+- Python Automation Scripts
+
+---
+
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=hardikoffice&show_icons=true&theme=radical)
+
+![Streak](https://streak-stats.demolab.com?user=hardikoffice&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardikoffice&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with me
+- LinkedIn: www.linkedin.com/in/hardik-sharma26
