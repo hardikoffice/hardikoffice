@@ -33,3 +33,12 @@
 
 ## 📫 Connect with me
 - LinkedIn: www.linkedin.com/in/hardik-sharma26
+
+## ⚡ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
